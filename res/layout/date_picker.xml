@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" android:focusable="false" android:clickable="false"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <com.ai.android.picker.NumberPicker
+        android:id="@+id/date_day" android:focusable="true" android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.ai.android.picker.NumberPicker
+        android:id="@+id/date_month"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+
+    <com.ai.android.picker.NumberPicker
+        android:id="@+id/date_year"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    
+</LinearLayout>
