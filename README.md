@@ -8,4 +8,3 @@ Android-Holo-Picker also support you to custom the picker theme instead of the d
 
 ScreenShot
 
-![](/home/leo/Pictures/AWS/2013-09-11.png)
