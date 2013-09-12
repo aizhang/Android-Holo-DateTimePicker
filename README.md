@@ -8,4 +8,5 @@ Android-Holo-Picker also support you to custom the picker theme instead of the d
 
 ScreenShot 
 
-![](/raw/screenshot.png)
+![](/raw/dark_theme.png)
+![](/raw/light_theme.png)
